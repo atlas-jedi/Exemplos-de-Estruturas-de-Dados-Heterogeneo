@@ -26,7 +26,7 @@ De maneira padrão, este comando deve ser executado dentro do Developer Powershe
 make run SRC=./src/array_struct.c
 ```
 
-Para limpar qualquer resíduo de compilação, você pode utilizar o seguinte comando:
+Para limpar qualquer resíduo de compilação, você pode utilizar o seguinte comando. (Este script utiliza o cmdlet ```del```, utilizado no Powershell):
 
 ```bash
 make clear
